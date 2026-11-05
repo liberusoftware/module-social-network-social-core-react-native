@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-social-core-react-native",
+  "capabilityKey": "liberusoftware/module-social-network-social-core",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-social-network-social-core-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/social-network/nextjs/social-core.md",
+  "presentationPlan": "projects/social-network/react-native/social-core.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
